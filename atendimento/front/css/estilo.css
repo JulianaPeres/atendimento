@@ -8,11 +8,6 @@ body, html{
 
 }
 
-img{
-height: 60px;
-width: 60px;
-}
-
 #central{
 color: orangered;
 font-size: 20px;
@@ -24,14 +19,13 @@ font-size: 15px;
 }
 
 
-#informacoes{
-color: darkslategray;
-font-size: 15px;
-font-style: italic;
-}
-
 #msgErro{
 color: red;
 font-size: 13px;
+}
+
+#logo{
+    height: 80px;
+    width: 80px; 
 }
 

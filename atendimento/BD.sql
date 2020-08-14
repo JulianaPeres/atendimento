@@ -21,6 +21,8 @@ create table itmn032_agencia(
    constraint pk_agencia primary key (id)
 );
 
+drop table itmn032_agencia;
+
 create table itmn032_agendamento(
    num_seq integer not null auto_increment,
    nome_cli  varchar(100),
