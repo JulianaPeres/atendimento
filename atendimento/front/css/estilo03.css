@@ -1,0 +1,30 @@
+body, html{
+    height: 50%;
+}
+
+.form-control{
+
+    margin-bottom: 6px;
+
+}
+
+img{
+height: 60px;
+width: 60px;
+}
+
+#central{
+color: orangered;
+font-size: 20px;
+}
+
+#agendamento{
+color: blue;
+font-size: 15px;
+}
+
+#dados{
+color: darkslategray;
+font-size: 14px;
+font-style: italic;
+}
